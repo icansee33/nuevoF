@@ -1,0 +1,67 @@
+
+.h1{
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+   
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}*/
+
+.form{
+    background-color: #888;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.containForm{
+    color: blanchedalmond;
+    background-color: cadetblue;
+    width: 400px;
+    border-radius: 5%;
+    padding-left: 1rem;
+    
+
+}
+
+.txt{
+    width: 95%;
+}
+
+.send{
+    justify-self: center;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    width: 85%;
+    padding-left: 9rem;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+   
+    overflow-y: scroll;
+    background-image: url(https://play-lh.googleusercontent.com/QNPPRtgJyH8Vgv5FCI8S7nFRfrszCvCPrM79nyYrSQbkqnO_vrMMGnyNGPI-tCX5dy8q);
+    background-size: cover;
+}
